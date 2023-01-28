@@ -1,0 +1,43 @@
+# TERMOS CHAVES
+
+- download/ upload
+- navegador 
+- banda larga
+- cache
+- crack
+- email
+- emoticons/emoji
+- gif/jpg/png/svg
+- host
+- HTML
+- HTTP
+- icone
+- link
+- login/logon
+- logout/logoff
+- mp3
+- URL
+- multimidia
+- nick
+- online/offline
+- pixar + element = pixel 
+- vírus
+- spam
+- backup
+- blog
+- (cyber)bullying
+- 3G/ 4G/ 5G
+- cookies
+- firewall
+- hacker
+- IP
+- click bait
+- phishing
+- keylogger
+- vlog 
+- pop-up
+- youtuber
+- fake news
+- firewall
+- hacker
+- podcast
