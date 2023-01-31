@@ -22,6 +22,9 @@ header{
 nav{
     flex-direction: column;
 }
+nav ul li:nth-child(1) a{
+    color: #FFBB33;
+} 
 header ul{
     list-style: none;
 }
@@ -46,6 +49,7 @@ header a:hover{
 .container:nth-child(1){
     background-color:  #FFBB33 ;
     width: 40%;
+    border-right: 1px solid #664400;
 }
 
  .container:nth-child(2){
@@ -127,7 +131,9 @@ main{
     font-weight: bolder;
     color: #fff;
 }
-
+.Description{
+    margin-top: 40px;
+}
 .Description li {
     display: flex;
     justify-content: center;
